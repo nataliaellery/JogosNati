@@ -4,7 +4,7 @@
 ?>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt" xml:lang="pt">
 	<head>
-		<title>Todas fases de programação</title>
+		<title>Todas fases de programação - testando</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<style type="text/css" media="screen">
 		html, body { height:100%; background-color: #ffffff;}
