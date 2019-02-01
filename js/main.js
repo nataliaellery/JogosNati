@@ -22,6 +22,7 @@ function begin() {
 	gameCanvas.addEventListener("mousemove", mouseMove);
 	gameCanvas.addEventListener("mousedown", mouseDown);
 	gameCanvas.addEventListener("mouseup", mouseUp);
+	testePHP("lala");
 	draw();	
 }
 
